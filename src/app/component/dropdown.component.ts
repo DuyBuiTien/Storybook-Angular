@@ -33,7 +33,6 @@ import { Dropdown } from '../model/dropdown.model';
       id="title-{{ task?.id }}"
       name="title-{{ task?.id }}"
       placeholder="Input title"
-      style="background: red;"
     />
   </label>
   <button
