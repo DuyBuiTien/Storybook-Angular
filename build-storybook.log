@@ -21,273 +21,347 @@ Node.js version : v14.20.0
 
 Operating system : Windows 10
 
-[10:16:06] No configuration file found, switching to CLI flags.
-[10:16:06] Using tsconfig file : D:\Storybook\Storybook-Angular\tsconfig.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.browserslistrc
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.editorconfig
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.gitignore
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\angular.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\documentation.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\build-storybook.log
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\jest.config.js
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\LICENSE
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\package-lock.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\package.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\README.md
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\tsconfig.app.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\tsconfig.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\tsconfig.spec.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.storybook\main.js
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.storybook\preview.js
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.storybook\tsconfig.json
-[10:16:06] Ignoring       : D:\Storybook\Storybook-Angular\.storybook\typings.d.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\jest-config\setup.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\favicon.ico
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\index.html
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\main.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\polyfills.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\styles.css
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\jest-config\__mocks__\fileMock.js
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\jest-config\__mocks__\globalMocks.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\jest-config\__mocks__\styleMock.js
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\app.component.css
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\app.component.html
-[10:16:06] Ignoring       : D:\Storybook\Storybook-Angular\src\app\app.component.spec.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\app.component.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\app.module.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\.gitkeep
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\environments\environment.prod.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\environments\environment.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\button.component.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\button.css
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\Button.stories.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\header.component.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\header.css
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\Header.stories.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\Introduction.stories.mdx
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\page.component.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\Page.stories.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\User.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\page.css
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\component\dropdown.component.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\component\dropdown.css
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\component\dropdown.stories.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\component\task-list.component.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\component\task-list.stories.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\app\model\dropdown.model.ts
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.eot
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.ttf
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.woff
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.eot
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.ttf
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.woff
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.eot
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.ttf
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.woff
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\code-brackets.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\colors.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\comments.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\direction.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\flow.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\plugin.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\repo.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\stackalt.svg
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\012f6f347dbdc535d025b298f58f74e9.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\01b633768df6e66453315f2ceb16764f.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\06dde92e3982f7c7449a4d4f98cd5ad8.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0af63dd5f75f9a95e6b1d59df02d5faf.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0f08bce36d6f95d31a4075df4f1da58e.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0f7f61e6cbaa5aef499d38ab0566ab7c.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\166bfa896b9e40099803620048345674.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\18b31c4f46818a415fe47079fc3748dd.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\18ff5299cd45ccc183faee552030cc85.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1a4f4fb82b5c7adba930959c31575d1c.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1cbfaeb5e1f67d4505be4761ee34af71.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1eaff1a9ff0ca10d4bc1dce64c73a60b.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\218c9ba052958e2c4ed62756d641b3bc.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\2cc666805d4529eec3a91c6ac1070b00.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\2ef8f0884dc0ba5abbaf770e51b1f7f4.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\332d5481c89c8273a154e6c1862028f8.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\381a40f7fea7db9914e0410531bf6f1d.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\356baef6e6ad63392f70f5bc7aaad56b.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\39ec6f827b513adb512dfb5e00f40f7e.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3b66d7d4bbf626df35c326ac91d07dda.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3bfdaa5bb7b33f5c501ba133da078f78.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3d24f79b61aa0236a45aec24df24fd79.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\42b85a007c2f2a92f35ec49966ce7093.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\432cf34a467ee28b5c4e9b0fb15dd334.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\487ddc502a60451035d56cdc49e3e3a1.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\4e36a509c5f352981e7e317338a1ee4a.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\5708f239b4d7a249ed2e3b079a917267.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\58145a3f710e193ed9b622231eebf42e.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\58a5e670de3189c87274677a1c3251ae.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\592b650a6e143cfc12114a8876e026a0.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\5b9c9edfa9e8c161e77969498fc89e8c.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6087adfc947ecba01f1baf23e1f484c7.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\68739756d5ec6c072d91f4029ec51d60.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6a06fc12a5c5f1d9cb1f461516606df4.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6c95b8aaf3d7d1ec10b2f0bfde5a4443.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\72a2edaf3a1d635b10de2b4e3448de94.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\738b2946be923450e7e8538f09339657.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7784316d9aa997d810f20172c11b0d26.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7b8961b14ef1d168832116e5e53d4060.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7c5b34a99640358efd8de8562cb7ee03.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7cdc73503c0429977ce69ca012e5ed5e.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8182c89074e737c59ed8e9c7e250cc08.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\81f1d297e6022bca9dce856267a1895a.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7e19a9fdc153853a88911f6705bb837e.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\832a904d0f124493270c888f73a3f599.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8546567fbd9b172a5df891cf0b00ec9d.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8a30051625380d14b707eb9f795b03f3.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8a80fae1d7ebd4b4f7abe7c17aedf52f.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8b3f530e5c8c4eb7c97d9a02cef63370.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8b47d43c031a306830d9c55d675d8a6c.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8dad536760a4ca800c690ff1d281b4ec.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8ea72f1689a80c8b8946314dcbf40d5c.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8f34a41276a9df1d37a60114c1094d28.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8ff799fdc3eb7c591cebd61f79af4edc.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\90a573a28822809aeb997a7d32680b2f.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9407c7b069de8e9b9057c86d571932fd.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\97390f1c56d473b2775850c767fa880b.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\98a891c96ed64fafe1a8b6cb6853a230.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9ba462cf71c18c700738505e0d7f252a.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9c6863f0fb2711f938be6a08e705913a.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a287ee3bb46d0ad2418caf67c61a290e.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a2efb0f7a96e9fd282b35fa27a38acef.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\aa04b79e037873dad54697aa0a537805.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\aa2644e646b08a0432cf70f83501747a.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ac48b6af0b45bf20fcd4ec01c84db4e3.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\aeffa86a661e185cbc23614691f91c2a.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\af57dac7b73c587a30306d73a1b9235f.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b2ffb6966286829e4b012f33d9bf41c2.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b5f013432d454e30ac2b3bd30f7c7fb0.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b66ad1a21ca405bd0caad12078b3e757.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\c3d78d9969f9fb85819de430230b7636.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\c502bcf19fb5f5ab9f6205167feb1ec6.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cdbc6f86551625668ccd4d88b7aa8230.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cdbd69eb29350cc09536bb546e2c6cb4.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cf28e2e4d1275d6202a713c1b5d0765b.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cfab26ff0a4a2ddc3b8d16ff8fb2ce23.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d1b6408dd99fe5bc5739a40b58aecda2.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d2ac359ae1b8992b061624b12b4b4c8c.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d3dc22c3ea19c83569ad99cc441a0fbc.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d7a14877040f4971ad341b501f89e0f4.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\da68470df02eb592debfac3290f89d09.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e0a79a01c3c815c7b74e70f6db5d70c6.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e6a3a631683c92c4912b598a1f81eda7.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e6b087195c92f5d41c127e2440c7f232.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\eeac4a4d03d5c386be9e85e8c05f2c4f.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f03934f26788b32b9f3218c03cbbc007.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f3ab3cc1d537dbdf39121de234df33bb.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f42fa05d33b160e5329174172b9a5216.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f4a8349b1da2f9bed7f04bb5d584e329.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f8670b1be33fe70e9fc66b575a5cc052.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f96f723dad21d594651702dba7d07bd4.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\faf4d99fea7f68a4f687cd1c7a0298ae.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\fc9ceafb83fc3162bde900664321834f.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\feea54a401531894e9470e7436546360.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ff8325016653f7180d8fbe6fa8c4c274.json
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\0.pack
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\1.pack
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\index.pack
-[10:16:06] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\index.pack.old
-[10:16:06] Searching package.json file
-[10:16:06] package.json file found
-[10:16:06] Processing package.json dependencies
-[10:16:06] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[10:16:06] README.md file found
-[10:16:06] Error during D:\Storybook\Storybook-Angular\CHANGELOG read
-[10:16:06] Continuing without CHANGELOG.md file
-[10:16:06] Error during D:\Storybook\Storybook-Angular\CONTRIBUTING read
-[10:16:06] Continuing without CONTRIBUTING.md file
-[10:16:06] LICENSE.md file found
-[10:16:06] Error during D:\Storybook\Storybook-Angular\TODO read
-[10:16:06] Continuing without TODO.md file
-[10:16:06] Get dependencies data
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/jest-config/setup.ts
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/main.ts
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/polyfills.ts
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/jest-config/__mocks__/globalMocks.ts
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/app.component.ts
-[10:16:06] found          : AppComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/app.module.ts
-[10:16:06] found          : AppModule
-[10:16:06]                : - imports:
-[10:16:06]                : 	- BrowserModule
-[10:16:06]                : - declarations:
-[10:16:06]                : 	- AppComponent
-[10:16:06]                : - bootstrap:
-[10:16:06]                : 	- AppComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/environments/environment.prod.ts
-[10:16:06] found          : environment
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/environments/environment.ts
-[10:16:06] found          : environment
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/button.component.ts
-[10:16:06] found          : ButtonComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/Button.stories.ts
-[10:16:06] found          : Template
-[10:16:06] found          : Primary
-[10:16:06] found          : Secondary
-[10:16:06] found          : Large
-[10:16:06] found          : Small
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/header.component.ts
-[10:16:06] found          : HeaderComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/Header.stories.ts
-[10:16:06] found          : Template
-[10:16:06] found          : LoggedIn
-[10:16:06] found          : LoggedOut
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/page.component.ts
-[10:16:06] found          : PageComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/Page.stories.ts
-[10:16:06] found          : Template
-[10:16:06] found          : LoggedOut
-[10:16:06] found          : LoggedIn
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/stories/User.ts
-[10:16:06] found          : User
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/component/dropdown.component.ts
-[10:16:06] found          : DropdownComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/component/dropdown.stories.ts
-[10:16:06] found          : actionsData
-[10:16:06] found          : Template
-[10:16:06] found          : Default
-[10:16:06] found          : Pinned
-[10:16:06] found          : Archived
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/component/task-list.component.ts
-[10:16:06] found          : TaskListComponent
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/component/task-list.stories.ts
-[10:16:06] found          : Template
-[10:16:06] found          : Default
-[10:16:06] found          : WithPinnedTasks
-[10:16:06] found          : Loading
-[10:16:06] found          : Empty
-[10:16:06] parsing        : D:/Storybook/Storybook-Angular/src/app/model/dropdown.model.ts
-[10:16:06] found          : Dropdown
-[10:16:06] -------------------
-[10:16:06] Project statistics 
-[10:16:06] - files      : 169
-[10:16:06] - module     : 1
-[10:16:06] - component  : 6
-[10:16:06] - interface  : 2
-[10:16:06] -------------------
-[10:16:06] Prepare components
-[10:16:06]  AppComponent has a templateUrl, include it
-[10:16:06]  AppComponent has styleUrls, include them
-[10:16:06]  ButtonComponent has styleUrls, include them
-[10:16:06]  DropdownComponent has styleUrls, include them
-[10:16:06]  HeaderComponent has styleUrls, include them
-[10:16:06]  PageComponent has styleUrls, include them
-[10:16:06] Prepare modules
-[10:16:06] Prepare interfaces
-[10:16:06] Prepare miscellaneous
-[10:16:06] Process documentation coverage report
-[10:16:06] Generating documentation in export format json
-[10:16:06] Documentation generated in ./ in 0.929 seconds
+[10:28:09] No configuration file found, switching to CLI flags.
+[10:28:09] Using tsconfig file : D:\Storybook\Storybook-Angular\tsconfig.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.browserslistrc
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.editorconfig
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.gitignore
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\angular.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\documentation.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\build-storybook.log
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\jest.config.js
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\LICENSE
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\package.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\package-lock.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\README.md
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\tsconfig.app.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\tsconfig.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\tsconfig.spec.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.storybook\preview.js
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.storybook\tsconfig.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.storybook\main.js
+[10:28:09] Ignoring       : D:\Storybook\Storybook-Angular\.storybook\typings.d.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\jest-config\setup.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\favicon.ico
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\main.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\index.html
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\polyfills.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\styles.css
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\jest-config\__mocks__\fileMock.js
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\jest-config\__mocks__\globalMocks.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\jest-config\__mocks__\styleMock.js
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\app.component.html
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\app.component.css
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\app.component.ts
+[10:28:09] Ignoring       : D:\Storybook\Storybook-Angular\src\app\app.component.spec.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\app.module.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\.gitkeep
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\environments\environment.prod.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\environments\environment.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\button.component.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\button.css
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\Button.stories.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\header.component.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\header.css
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\Header.stories.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\Introduction.stories.mdx
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\page.component.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\page.css
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\Page.stories.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\User.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\component\dropdown.component.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\component\dropdown.css
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\component\dropdown.stories.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\component\task-list.component.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\component\task-list.stories.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\app\model\dropdown.model.ts
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.eot
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.ttf
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Light-webfont.woff
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.eot
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.ttf
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\font\OpenSans-Regular-webfont.woff
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.eot
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.ttf
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\assets\icon\percolate.woff
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\code-brackets.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\colors.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\comments.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\direction.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\flow.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\plugin.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\repo.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\src\stories\assets\stackalt.svg
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\00c8ec8f7b626e974dff8fecd13edee9.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\012f6f347dbdc535d025b298f58f74e9.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\01b633768df6e66453315f2ceb16764f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\02b927a9d90d12047c95ada9db625236.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\06dde92e3982f7c7449a4d4f98cd5ad8.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0963d47eb66fefd5e4f18ae65d104580.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0af63dd5f75f9a95e6b1d59df02d5faf.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0d021e612d639db441116f065afb35b2.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0d588d67d624d5b055863ef7ac02f763.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0f08bce36d6f95d31a4075df4f1da58e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0f7f61e6cbaa5aef499d38ab0566ab7c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\0fee29140fc9debdbb6a72371844595d.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\123bd2155ace763141370138632905e7.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\14048d59dfacc27e3550f9b26a0e0424.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\166bfa896b9e40099803620048345674.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\17b9922764a4e56e559c52df1b078a80.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\18b31c4f46818a415fe47079fc3748dd.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\18ff5299cd45ccc183faee552030cc85.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\195c1d69b5efc4adac01941360c43d27.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1a4f4fb82b5c7adba930959c31575d1c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1cbfaeb5e1f67d4505be4761ee34af71.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1cf5abf9359f94a55abf37cde8eea4b5.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\1eaff1a9ff0ca10d4bc1dce64c73a60b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\218c9ba052958e2c4ed62756d641b3bc.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\28c3f61698e837b61f0d331f598bb93b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\2c8b739c0706aef7791d18133b0abcd7.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\2cc666805d4529eec3a91c6ac1070b00.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\2ecee8aecb47adc2a330303960694e6c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\2ef8f0884dc0ba5abbaf770e51b1f7f4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\332d5481c89c8273a154e6c1862028f8.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\347790d756f660e7d59b02aedbf4eeef.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\356baef6e6ad63392f70f5bc7aaad56b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\381a40f7fea7db9914e0410531bf6f1d.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\39ec6f827b513adb512dfb5e00f40f7e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3b66d7d4bbf626df35c326ac91d07dda.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3bfdaa5bb7b33f5c501ba133da078f78.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3c2549ea995f611c95456f3dd6b22b12.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3d24f79b61aa0236a45aec24df24fd79.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\3f7760b3a6522429832865bebf76faf0.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\4241c236be0a43e4d59b0a07c1bc2c31.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\42b85a007c2f2a92f35ec49966ce7093.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\432cf34a467ee28b5c4e9b0fb15dd334.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\46ac64b119fdd3a85c0b6d301e38b327.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\483a81b4e6e0eee8e4e428261d4af106.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\487ddc502a60451035d56cdc49e3e3a1.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\495bde5f26cf43737e1bebbfcf41d2f5.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\4a48a7d790bdc248562cc4d9e1f3ab28.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\4b6a01f62e0e40b2c420f7f31774e592.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\4e36a509c5f352981e7e317338a1ee4a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\4f29664430105e1bd99ec72c0587d647.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\55dd2ed48b974a2e6ffcbb5426802f52.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\5708f239b4d7a249ed2e3b079a917267.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\58001a824df716c3648a247c61d5f97b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\58145a3f710e193ed9b622231eebf42e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\5849a4ae3e88619617994483a488a92a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\58a5e670de3189c87274677a1c3251ae.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\592b650a6e143cfc12114a8876e026a0.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\5af03e1c16bc24d839b1c161a2dbc57b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\5b9c9edfa9e8c161e77969498fc89e8c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6087adfc947ecba01f1baf23e1f484c7.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\61e9bb1ac9b02f832ca51dceab92e10e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6378bf135c040aff6f036d7b2e45cdf2.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\68739756d5ec6c072d91f4029ec51d60.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6a06fc12a5c5f1d9cb1f461516606df4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6a8ee579d1280527b3f80077bf8f4cb0.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\6c95b8aaf3d7d1ec10b2f0bfde5a4443.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\724ccdb63e009dcdd35f00dee21c4ffe.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\72a2edaf3a1d635b10de2b4e3448de94.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\72b86e6862efdc254918a733f699744a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\738b2946be923450e7e8538f09339657.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7784316d9aa997d810f20172c11b0d26.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\78d0ebc61736ca9962236a43e70883b1.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\78d29a5eac1e379643f059bed9853c13.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7b333409aae23891b5463fd4307f8ecb.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7b8961b14ef1d168832116e5e53d4060.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7c5b34a99640358efd8de8562cb7ee03.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7cdc73503c0429977ce69ca012e5ed5e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\7e19a9fdc153853a88911f6705bb837e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8079fe2dab25950dee269287757f2204.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8182c89074e737c59ed8e9c7e250cc08.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\81f1d297e6022bca9dce856267a1895a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\832a904d0f124493270c888f73a3f599.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8546567fbd9b172a5df891cf0b00ec9d.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8a30051625380d14b707eb9f795b03f3.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8a80fae1d7ebd4b4f7abe7c17aedf52f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8b3f530e5c8c4eb7c97d9a02cef63370.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8b47d43c031a306830d9c55d675d8a6c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8b49896259d71db558f21b5a31caa016.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8bde821113ee8ad8e215f576692af3ee.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8dad536760a4ca800c690ff1d281b4ec.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8ea72f1689a80c8b8946314dcbf40d5c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8f34a41276a9df1d37a60114c1094d28.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\8ff799fdc3eb7c591cebd61f79af4edc.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\90a573a28822809aeb997a7d32680b2f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\90de2bb963edebe9b26dacd3e26d8bc4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9142bd437ece3895600c4e0950de957e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\92a3d0caeefa7fe805147e8858c0bb60.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9407c7b069de8e9b9057c86d571932fd.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\968eca2fe989c83fb8386fc6094db804.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\97390f1c56d473b2775850c767fa880b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\973a170972b08a4f1c013d3e717fcb63.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\97b992a40b8f347283ed2e936aba6029.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\98a891c96ed64fafe1a8b6cb6853a230.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9980c5ae35f6b6527a2a16cce1b53014.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9ba462cf71c18c700738505e0d7f252a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a11496f3e7753226f7353ad3798482d4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\9c6863f0fb2711f938be6a08e705913a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a287ee3bb46d0ad2418caf67c61a290e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a2efb0f7a96e9fd282b35fa27a38acef.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a4333223f7c200cf437240a809d552db.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\a8380899dafc4eed9b0bcea0f249cbfd.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\aa04b79e037873dad54697aa0a537805.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\aa2644e646b08a0432cf70f83501747a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ab51c696bff422aa6e3ef4d3e0e0fcf7.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ac48b6af0b45bf20fcd4ec01c84db4e3.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\af5dc5d2df5b1f1acd542a21a4a1f2dc.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\af57dac7b73c587a30306d73a1b9235f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\aeffa86a661e185cbc23614691f91c2a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b2a02299b01eb7ef04bc64865cd0fa7f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b2ffb6966286829e4b012f33d9bf41c2.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b5f013432d454e30ac2b3bd30f7c7fb0.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b66ad1a21ca405bd0caad12078b3e757.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\b92566008ea7ae1893dff5b4990d775a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ba88b47c76c0d11ef22d75fe2c48c607.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\bb3ffaad718d051372f1c33ae394d027.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\bbd6f462649427f01802d5e496e92a97.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\bfaac3969774c4d4a7acbe741a758dbe.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\c3d78d9969f9fb85819de430230b7636.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\c502bcf19fb5f5ab9f6205167feb1ec6.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\c6165ca8ac6049e8d8c65d676e759079.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\c643b2452c92180a3155332d61775d9d.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cdbc6f86551625668ccd4d88b7aa8230.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cdc6fe356fe98aa22f684649dd30c366.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cdbd69eb29350cc09536bb546e2c6cb4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ce14cba5b4ddda8b758727eed54a86ea.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cf12827d867874585376fb619dd1f5ca.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cf28e2e4d1275d6202a713c1b5d0765b.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\cfab26ff0a4a2ddc3b8d16ff8fb2ce23.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d14e65d50d782302282e95442fdfa542.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d1b6408dd99fe5bc5739a40b58aecda2.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d2ac359ae1b8992b061624b12b4b4c8c.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d3dc22c3ea19c83569ad99cc441a0fbc.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d6bf24431051e121be8b44b70c35f336.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\d7a14877040f4971ad341b501f89e0f4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e01194b42f3e3941e75bc29775e15188.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\da68470df02eb592debfac3290f89d09.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e1e0aafd3391c7d0db75e84ce85c0c3f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e0a79a01c3c815c7b74e70f6db5d70c6.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e5c38ed1b38dd2fde2a99d46b5d5ac53.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e6a3a631683c92c4912b598a1f81eda7.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e79c4c1e14c47187c6c2ced7257ac91e.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e6b087195c92f5d41c127e2440c7f232.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\e84471211c32fe0982669405063d235a.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ec20f650159673457566a449c5de8230.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\eeac4a4d03d5c386be9e85e8c05f2c4f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f17c16e978c68a3eb11c70239b1b7973.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f03934f26788b32b9f3218c03cbbc007.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f3ab3cc1d537dbdf39121de234df33bb.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f42fa05d33b160e5329174172b9a5216.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f4a8349b1da2f9bed7f04bb5d584e329.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f659857ecc6a346c2c9b6462b85b2b98.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f6d232c9e0a32abf7e0d4dc0da4c3b59.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f78b52f456beeb369b1d8de817038109.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f8670b1be33fe70e9fc66b575a5cc052.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\f96f723dad21d594651702dba7d07bd4.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\faf4d99fea7f68a4f687cd1c7a0298ae.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\fc9ceafb83fc3162bde900664321834f.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\feea54a401531894e9470e7436546360.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\babel-webpack\ff8325016653f7180d8fbe6fa8c4c274.json
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\0.pack
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\1.pack
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\index.pack
+[10:28:09] Including      : D:\Storybook\Storybook-Angular\.angular\cache\13.3.7\angular-webpack\ce733d11d536ef5833b06cf582ab4fb2ec8d119f\index.pack.old
+[10:28:09] Searching package.json file
+[10:28:09] package.json file found
+[10:28:09] Processing package.json dependencies
+[10:28:09] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[10:28:09] README.md file found
+[10:28:09] Error during D:\Storybook\Storybook-Angular\CHANGELOG read
+[10:28:09] Continuing without CHANGELOG.md file
+[10:28:09] Error during D:\Storybook\Storybook-Angular\CONTRIBUTING read
+[10:28:09] Continuing without CONTRIBUTING.md file
+[10:28:09] LICENSE.md file found
+[10:28:09] Error during D:\Storybook\Storybook-Angular\TODO read
+[10:28:09] Continuing without TODO.md file
+[10:28:09] Get dependencies data
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/jest-config/setup.ts
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/main.ts
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/polyfills.ts
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/jest-config/__mocks__/globalMocks.ts
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/app.component.ts
+[10:28:09] found          : AppComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/app.module.ts
+[10:28:09] found          : AppModule
+[10:28:09]                : - imports:
+[10:28:09]                : 	- BrowserModule
+[10:28:09]                : - declarations:
+[10:28:09]                : 	- AppComponent
+[10:28:09]                : - bootstrap:
+[10:28:09]                : 	- AppComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/environments/environment.prod.ts
+[10:28:09] found          : environment
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/environments/environment.ts
+[10:28:09] found          : environment
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/button.component.ts
+[10:28:09] found          : ButtonComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/Button.stories.ts
+[10:28:09] found          : Template
+[10:28:09] found          : Primary
+[10:28:09] found          : Secondary
+[10:28:09] found          : Large
+[10:28:09] found          : Small
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/header.component.ts
+[10:28:09] found          : HeaderComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/Header.stories.ts
+[10:28:09] found          : Template
+[10:28:09] found          : LoggedIn
+[10:28:09] found          : LoggedOut
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/page.component.ts
+[10:28:09] found          : PageComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/Page.stories.ts
+[10:28:09] found          : Template
+[10:28:09] found          : LoggedOut
+[10:28:09] found          : LoggedIn
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/stories/User.ts
+[10:28:09] found          : User
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/component/dropdown.component.ts
+[10:28:09] found          : DropdownComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/component/dropdown.stories.ts
+[10:28:09] found          : actionsData
+[10:28:09] found          : Template
+[10:28:09] found          : Default
+[10:28:09] found          : Pinned
+[10:28:09] found          : Archived
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/component/task-list.component.ts
+[10:28:09] found          : TaskListComponent
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/component/task-list.stories.ts
+[10:28:09] found          : Template
+[10:28:09] found          : Default
+[10:28:09] found          : WithPinnedTasks
+[10:28:09] found          : Loading
+[10:28:09] found          : Empty
+[10:28:09] parsing        : D:/Storybook/Storybook-Angular/src/app/model/dropdown.model.ts
+[10:28:09] found          : Dropdown
+[10:28:09] -------------------
+[10:28:09] Project statistics 
+[10:28:09] - files      : 243
+[10:28:09] - module     : 1
+[10:28:09] - component  : 6
+[10:28:09] - interface  : 2
+[10:28:09] -------------------
+[10:28:09] Prepare components
+[10:28:09]  AppComponent has a templateUrl, include it
+[10:28:09]  AppComponent has styleUrls, include them
+[10:28:09]  ButtonComponent has styleUrls, include them
+[10:28:09]  DropdownComponent has styleUrls, include them
+[10:28:09]  HeaderComponent has styleUrls, include them
+[10:28:09]  PageComponent has styleUrls, include them
+[10:28:09] Prepare modules
+[10:28:09] Prepare interfaces
+[10:28:09] Prepare miscellaneous
+[10:28:09] Process documentation coverage report
+[10:28:09] Generating documentation in export format json
+[10:28:09] Documentation generated in ./ in 0.842 seconds
 info @storybook/angular v6.5.7
 info 
-info => Cleaning outputDir: C:\Users\habac99\AppData\Local\Temp\chromatic--10172-GLZZTIGckcXg
+info => Cleaning outputDir: C:\Users\habac99\AppData\Local\Temp\chromatic--15656-43C1UCZ0nLW5
 info => Loading presets
 info => Compiling manager..
 info => Compiling preview..
@@ -431,67 +505,52 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/13 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
 <s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/14 modules
-<s> [webpack.Progress] 10% building 0/17 entries 20/54 dependencies 0/18 modules
-<s> [webpack.Progress] 10% building 0/17 entries 81/142 dependencies 0/46 modules
+<s> [webpack.Progress] 10% building 0/17 entries 72/100 dependencies 0/45 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
-<s> [webpack.Progress] 10% building 0/17 entries 90/142 dependencies 0/54 modules
-<s> [webpack.Progress] 13% building 1/17 entries 118/151 dependencies 2/75 modules
+<s> [webpack.Progress] 10% building 0/17 entries 118/149 dependencies 2/75 modules
+<s> [webpack.Progress] 13% building 1/17 entries 118/149 dependencies 2/75 modules
 <s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 13% building 1/17 entries 132/166 dependencies 2/85 modules
-<s> [webpack.Progress] 13% building 1/17 entries 189/249 dependencies 9/100 modules
-<s> [webpack.Progress] 13% building 1/17 entries 234/276 dependencies 10/129 modules
-<s> [webpack.Progress] 16% building 2/17 entries 335/469 dependencies 32/149 modules
-<s> [webpack.Progress] 16% building 2/17 entries 464/600 dependencies 51/215 modules
-<s> [webpack.Progress] 19% building 3/17 entries 577/635 dependencies 64/248 modules
-<s> [webpack.Progress] 19% building 3/17 entries 800/898 dependencies 79/282 modules
-<s> [webpack.Progress] 19% building 3/17 entries 876/900 dependencies 81/317 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1100/1239 dependencies 126/352 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1200/1242 dependencies 138/385 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1305/1700 dependencies 166/408 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1400/1739 dependencies 169/411 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1500/1756 dependencies 173/412 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1540/1800 dependencies 174/431 modules
-<s> [webpack.Progress] 22% building 4/17 entries 1668/1943 dependencies 217/523 modules
-<s> [webpack.Progress] 22% building 4/17 entries 1900/1943 dependencies 222/592 modules
-<s> [webpack.Progress] 22% building 4/17 entries 1937/2000 dependencies 223/621 modules
-<s> [webpack.Progress] 22% building 4/17 entries 2100/2549 dependencies 240/624 modules
-<s> [webpack.Progress] 22% building 4/17 entries 2261/2773 dependencies 270/700 modules
-<s> [webpack.Progress] 22% building 4/17 entries 2700/2773 dependencies 299/811 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3000/3014 dependencies 309/874 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3225/3243 dependencies 337/900 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3375/3500 dependencies 354/904 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3500/3522 dependencies 357/932 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3724/3800 dependencies 366/954 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4000/4051 dependencies 411/958 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4104/4200 dependencies 420/971 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4335/4400 dependencies 576/1033 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4400/4477 dependencies 632/1033 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4453/4500 dependencies 641/1053 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4635/4700 dependencies 729/1091 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4846/4900 dependencies 888/1146 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4927/5200 dependencies 907/1150 modules
-<s> [webpack.Progress] 22% building 4/17 entries 5200/5270 dependencies 936/1241 modules
-<s> [webpack.Progress] 22% building 4/17 entries 5400/5451 dependencies 1026/1310 modules
-<s> [webpack.Progress] 22% building 4/17 entries 5645/5700 dependencies 1092/1370 modules
-<s> [webpack.Progress] 23% building 4/17 entries 6000/6049 dependencies 1199/1550 modules
-<s> [webpack.Progress] 23% building 4/17 entries 6100/6163 dependencies 1250/1592 modules
-<s> [webpack.Progress] 24% building 4/17 entries 6185/6199 dependencies 1300/1619 modules
-<s> [webpack.Progress] 24% building 4/17 entries 6200/6222 dependencies 1331/1621 modules
-<s> [webpack.Progress] 25% building 4/17 entries 6210/6235 dependencies 1400/1622 modules
-<s> [webpack.Progress] 25% building 4/17 entries 6257/6300 dependencies 1424/1629 modules
-<s> [webpack.Progress] 26% building 4/17 entries 6500/6525 dependencies 1473/1665 modules
-<s> [webpack.Progress] 27% building 5/17 entries 6624/6652 dependencies 1568/1686 modules
-<s> [webpack.Progress] 29% building 6/17 entries 6624/6652 dependencies 1569/1686 modules
-<s> [webpack.Progress] 32% building 7/17 entries 6624/6652 dependencies 1570/1686 modules
-<s> [webpack.Progress] 35% building 8/17 entries 6624/6652 dependencies 1571/1686 modules
-<s> [webpack.Progress] 39% building 9/17 entries 6624/6652 dependencies 1572/1686 modules
-<s> [webpack.Progress] 42% building 10/17 entries 6624/6652 dependencies 1573/1686 modules
-<s> [webpack.Progress] 45% building 11/17 entries 6624/6652 dependencies 1574/1686 modules
-<s> [webpack.Progress] 48% building 12/17 entries 6624/6652 dependencies 1575/1686 modules
-<s> [webpack.Progress] 52% building 13/17 entries 6800/6811 dependencies 1643/1721 modules
-<s> [webpack.Progress] 55% building 14/17 entries 6931/6934 dependencies 1723/1763 modules
-<s> [webpack.Progress] 58% building 15/17 entries 6931/6934 dependencies 1723/1763 modules
-<s> [webpack.Progress] 61% building 16/17 entries 6933/6934 dependencies 1739/1763 modules
+<s> [webpack.Progress] 13% building 1/17 entries 174/242 dependencies 9/88 modules
+<s> [webpack.Progress] 13% building 1/17 entries 238/283 dependencies 11/130 modules
+<s> [webpack.Progress] 13% building 1/17 entries 309/447 dependencies 25/139 modules
+<s> [webpack.Progress] 16% building 2/17 entries 346/469 dependencies 36/141 modules
+<s> [webpack.Progress] 16% building 2/17 entries 600/766 dependencies 76/233 modules
+<s> [webpack.Progress] 19% building 3/17 entries 693/766 dependencies 79/275 modules
+<s> [webpack.Progress] 19% building 3/17 entries 971/1100 dependencies 94/350 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1200/1265 dependencies 139/375 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1291/1500 dependencies 162/411 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1339/1700 dependencies 166/412 modules
+<s> [webpack.Progress] 22% building 4/17 entries 1582/2004 dependencies 206/420 modules
+<s> [webpack.Progress] 22% building 4/17 entries 1800/2010 dependencies 226/531 modules
+<s> [webpack.Progress] 22% building 4/17 entries 2100/2499 dependencies 258/627 modules
+<s> [webpack.Progress] 22% building 4/17 entries 2600/2743 dependencies 303/688 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3014/3100 dependencies 336/740 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3020/3500 dependencies 359/743 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3200/3722 dependencies 374/838 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3800/3882 dependencies 531/965 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4171/4200 dependencies 553/1022 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4468/4500 dependencies 582/1059 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4879/5000 dependencies 843/1135 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5015/5200 dependencies 865/1165 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5400/5466 dependencies 982/1321 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5741/6035 dependencies 1145/1400 modules
+<s> [webpack.Progress] 23% building 4/17 entries 6000/6035 dependencies 1186/1555 modules
+<s> [webpack.Progress] 23% building 4/17 entries 6100/6139 dependencies 1260/1593 modules
+<s> [webpack.Progress] 25% building 4/17 entries 6200/6272 dependencies 1392/1616 modules
+<s> [webpack.Progress] 25% building 4/17 entries 6300/6326 dependencies 1447/1635 modules
+<s> [webpack.Progress] 26% building 4/17 entries 6539/6563 dependencies 1500/1675 modules
+<s> [webpack.Progress] 27% building 5/17 entries 6640/6664 dependencies 1579/1681 modules
+<s> [webpack.Progress] 29% building 6/17 entries 6640/6664 dependencies 1580/1681 modules
+<s> [webpack.Progress] 32% building 7/17 entries 6640/6664 dependencies 1581/1681 modules
+<s> [webpack.Progress] 35% building 8/17 entries 6640/6664 dependencies 1582/1681 modules
+<s> [webpack.Progress] 39% building 9/17 entries 6640/6664 dependencies 1583/1681 modules
+<s> [webpack.Progress] 42% building 10/17 entries 6640/6664 dependencies 1584/1681 modules
+<s> [webpack.Progress] 45% building 11/17 entries 6640/6664 dependencies 1585/1681 modules
+<s> [webpack.Progress] 48% building 12/17 entries 6640/6664 dependencies 1586/1681 modules
+<s> [webpack.Progress] 52% building 13/17 entries 6778/6790 dependencies 1645/1712 modules
+<s> [webpack.Progress] 55% building 14/17 entries 6928/6929 dependencies 1721/1763 modules
+<s> [webpack.Progress] 58% building 15/17 entries 6928/6929 dependencies 1721/1763 modules
+<s> [webpack.Progress] 61% building 16/17 entries 6934/6934 dependencies 1739/1764 modules
 <s> [webpack.Progress] 65% building 17/17 entries 6935/6935 dependencies 1764/1764 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -593,36 +652,36 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (1.85 min)
+info => Manager built (1.07 min)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.2fe9210f.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.2fe9210f.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.850425c7.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.850425c7.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.387c6681.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.387c6681.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.58b69f85.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.58b69f85.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.680a619d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.680a619d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.784e7af5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.784e7af5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.86d4ec81.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.86d4ec81.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.19ce2167.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.19ce2167.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.916e89d8.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.916e89d8.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.59bcb094.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.59bcb094.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.916e89d8.iframe.bundle.js attach SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.916e89d8.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.59bcb094.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 865.59bcb094.iframe.bundle.js attached SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
@@ -633,8 +692,8 @@ info => Manager built (1.85 min)
 <s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.d0fa6ead.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.d0fa6ead.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.9c2be70c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.9c2be70c.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.5e00d783.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.5e00d783.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
@@ -679,7 +738,7 @@ info => Manager built (1.85 min)
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (2.13 min)
+info => Preview built (1.3 min)
 WARN D:/Storybook/Storybook-Angular/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN D:/Storybook/Storybook-Angular/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
@@ -701,10 +760,10 @@ WARN   main (3.77 MiB)
 WARN       runtime~main.5e00d783.iframe.bundle.js
 WARN       865.da33452d.iframe.bundle.js
 WARN       main.css
-WARN       main.d0fa6ead.iframe.bundle.js
+WARN       main.9c2be70c.iframe.bundle.js
 WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: C:\Users\habac99\AppData\Local\Temp\chromatic--10172-GLZZTIGckcXg
+info => Output directory: C:\Users\habac99\AppData\Local\Temp\chromatic--15656-43C1UCZ0nLW5
